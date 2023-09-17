@@ -1,0 +1,7 @@
+1  __pyc*
+2  venv/
+3  env/
+4  .idea/
+5  *.xml
+6  *.iml
+7  *.idea/
